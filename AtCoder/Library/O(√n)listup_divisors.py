@@ -1,4 +1,4 @@
-# O(√n)enumerate_factors
+# O(√n)listup_factors
 n = int(input())
 ln = []
 for i in range(1,(int(n**0.5))+1):
